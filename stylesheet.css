@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Armorial';
+    src: url('ArmorialNormal.eot');
+    src: url('ArmorialNormal.eot?#iefix') format('embedded-opentype'),
+        url('ArmorialNormal.woff2') format('woff2'),
+        url('ArmorialNormal.woff') format('woff'),
+        url('ArmorialNormal.ttf') format('truetype'),
+        url('ArmorialNormal.svg#ArmorialNormal') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
